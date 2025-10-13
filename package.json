@@ -2,7 +2,7 @@
   "name": "tailwind-chat",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://julian-nec-ui.github.io/ai-chat-models",
+  "homepage": "https://julian-nec-ui.github.io/tailwind-ai-chat",
   "type": "module",
   "scripts": {
     "dev": "vite",
