@@ -102,7 +102,7 @@ export default function AIChatModel() {
         AI Chat With Models
       </h1>
 
-      <div className="flex flex-col sm:flex-row items-center gap-6">
+      <div className="flex flex-col sm:flex-row  gap-6">
         <div className={`px-4 py-2 rounded-lg text-sm
         ${aiReady ? "bg-gradient-to-r from-[#0c9692] to-[#0c4fae] border-none text-white font-semibold border item items-center gap-3 text"
             : "bg-[#17336b] text-[#ffffff] border border-[#17336b] font-semibold"}`}>
