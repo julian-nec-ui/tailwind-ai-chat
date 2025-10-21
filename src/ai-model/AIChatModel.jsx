@@ -110,7 +110,7 @@ export default function AIChatModel() {
         </div>
         <div className="flex items-center gap-2" hidden={!aiReady}>
           <span className="text-gray-200 text-sm font-semibold">
-            Select a Chat Model:
+            Select Chat Model:
           </span>
           <select value={selectedModel} onChange={handleModelChange} disabled={!aiReady}
             className="bg-gradient-to-r from-[#c54675] to-[#6c476d] border-none
